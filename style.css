@@ -244,3 +244,9 @@ h2 {
     }
 }
 
+@media (min-width: 1920px) and (max-width: 2450px) {
+    .faq {
+        max-width: 80%;
+    }
+}
+
